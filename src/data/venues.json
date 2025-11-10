@@ -1,0 +1,81 @@
+{
+  "venues": [
+    {
+      "id": "12-apostles-main",
+      "name": "12 Apostles Main Hall",
+      "capacity": 200,
+      "location": "Cape Town",
+      "amenities": ["Projector", "WiFi", "Catering", "Parking"]
+    },
+    {
+      "id": "durbanville-a",
+      "name": "DurbanVille estate Conference Room A",
+      "capacity": 50,
+      "location": "Durbanville",
+      "amenities": ["Projector", "WiFi", "Whiteboard"]
+    },
+    {
+      "id": "durbanville-b",
+      "name": "DurbanVille estate Conference Room B",
+      "capacity": 30,
+      "location": "Durbanville",
+      "amenities": ["WiFi", "Whiteboard"]
+    },
+    {
+      "id": "durbanville-c",
+      "name": "DurbanVille estate Conference Room C",
+      "capacity": 20,
+      "location": "Durbanville",
+      "amenities": ["WiFi"]
+    },
+    {
+      "id": "durbanville-executive",
+      "name": "DurbanVille estate Executive Board Room",
+      "capacity": 12,
+      "location": "Durbanville",
+      "amenities": ["Video Conference", "WiFi", "Premium Furniture"]
+    },
+    {
+      "id": "onyx-small-1",
+      "name": "ONYX Hotel Small Meeting Room 1",
+      "capacity": 8,
+      "location": "City Center",
+      "amenities": ["WiFi", "Coffee Machine"]
+    },
+    {
+      "id": "onyx-small-2",
+      "name": "ONYX Hotel Small Meeting Room 2",
+      "capacity": 6,
+      "location": "City Center",
+      "amenities": ["WiFi"]
+    },
+    {
+      "id": "protea-private",
+      "name": "Protea Hotel Private Office",
+      "capacity": 4,
+      "location": "Waterfront",
+      "amenities": ["WiFi", "Private Entrance"]
+    },
+    {
+      "id": "sun-executive",
+      "name": "Sun Hotel Executive Board Room",
+      "capacity": 12,
+      "location": "City Center",
+      "amenities": ["Video Conference", "WiFi", "Premium Furniture"]
+    },
+    {
+        "id": "protea-private-spa",
+        "name": "Protea Hotel Private Spa Room",
+        "capacity": 4,
+        "location": "Waterfront",
+        "amenities": ["WiFi", "Private Entrance"]
+    },
+    {
+        "id": "N1-Doctor",
+        "name": "N1 Doctor Consultation",
+        "capacity": 2,
+        "location": "City Center",
+        "amenities": ["WiFi", "Coffee Machine", "Medical advices"]
+    }
+  ]
+}

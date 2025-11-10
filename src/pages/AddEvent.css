@@ -1,0 +1,28 @@
+/* Add Event page styles - using global App.css for layout */
+/* Remove page-specific overrides to use global styles */
+
+/* Form controls - rely on global App.css styles */
+
+/* Page-specific grid layouts only */
+.time-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.duration-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+/* Buttons and alerts - use global App.css styles */
+
+/* Responsive adjustments for grids only */
+@media (max-width: 576px) {
+  .time-grid,
+  .duration-grid {
+    grid-template-columns: 1fr;
+  }
+}
